@@ -1,0 +1,15 @@
+C:\Users\TAMAPA\Desktop\GB Тестировщик\Уроки\3 Основы языков программирования\ДЗ Семинар 6\Task_41_ЧислаБольше0\bin\Debug\net6.0\Task_41_ЧислаБольше0.exe
+C:\Users\TAMAPA\Desktop\GB Тестировщик\Уроки\3 Основы языков программирования\ДЗ Семинар 6\Task_41_ЧислаБольше0\bin\Debug\net6.0\Task_41_ЧислаБольше0.deps.json
+C:\Users\TAMAPA\Desktop\GB Тестировщик\Уроки\3 Основы языков программирования\ДЗ Семинар 6\Task_41_ЧислаБольше0\bin\Debug\net6.0\Task_41_ЧислаБольше0.runtimeconfig.json
+C:\Users\TAMAPA\Desktop\GB Тестировщик\Уроки\3 Основы языков программирования\ДЗ Семинар 6\Task_41_ЧислаБольше0\bin\Debug\net6.0\Task_41_ЧислаБольше0.dll
+C:\Users\TAMAPA\Desktop\GB Тестировщик\Уроки\3 Основы языков программирования\ДЗ Семинар 6\Task_41_ЧислаБольше0\bin\Debug\net6.0\Task_41_ЧислаБольше0.pdb
+C:\Users\TAMAPA\Desktop\GB Тестировщик\Уроки\3 Основы языков программирования\ДЗ Семинар 6\Task_41_ЧислаБольше0\obj\Debug\net6.0\Task_41_ЧислаБольше0.csproj.AssemblyReference.cache
+C:\Users\TAMAPA\Desktop\GB Тестировщик\Уроки\3 Основы языков программирования\ДЗ Семинар 6\Task_41_ЧислаБольше0\obj\Debug\net6.0\Task_41_ЧислаБольше0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TAMAPA\Desktop\GB Тестировщик\Уроки\3 Основы языков программирования\ДЗ Семинар 6\Task_41_ЧислаБольше0\obj\Debug\net6.0\Task_41_ЧислаБольше0.AssemblyInfoInputs.cache
+C:\Users\TAMAPA\Desktop\GB Тестировщик\Уроки\3 Основы языков программирования\ДЗ Семинар 6\Task_41_ЧислаБольше0\obj\Debug\net6.0\Task_41_ЧислаБольше0.AssemblyInfo.cs
+C:\Users\TAMAPA\Desktop\GB Тестировщик\Уроки\3 Основы языков программирования\ДЗ Семинар 6\Task_41_ЧислаБольше0\obj\Debug\net6.0\Task_41_ЧислаБольше0.csproj.CoreCompileInputs.cache
+C:\Users\TAMAPA\Desktop\GB Тестировщик\Уроки\3 Основы языков программирования\ДЗ Семинар 6\Task_41_ЧислаБольше0\obj\Debug\net6.0\Task_41_ЧислаБольше0.dll
+C:\Users\TAMAPA\Desktop\GB Тестировщик\Уроки\3 Основы языков программирования\ДЗ Семинар 6\Task_41_ЧислаБольше0\obj\Debug\net6.0\refint\Task_41_ЧислаБольше0.dll
+C:\Users\TAMAPA\Desktop\GB Тестировщик\Уроки\3 Основы языков программирования\ДЗ Семинар 6\Task_41_ЧислаБольше0\obj\Debug\net6.0\Task_41_ЧислаБольше0.pdb
+C:\Users\TAMAPA\Desktop\GB Тестировщик\Уроки\3 Основы языков программирования\ДЗ Семинар 6\Task_41_ЧислаБольше0\obj\Debug\net6.0\Task_41_ЧислаБольше0.genruntimeconfig.cache
+C:\Users\TAMAPA\Desktop\GB Тестировщик\Уроки\3 Основы языков программирования\ДЗ Семинар 6\Task_41_ЧислаБольше0\obj\Debug\net6.0\ref\Task_41_ЧислаБольше0.dll
