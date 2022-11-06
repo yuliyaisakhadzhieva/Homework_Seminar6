@@ -1,0 +1,15 @@
+C:\Users\TAMAPA\Desktop\GB Тестировщик\Уроки\3 Основы языков программирования\ДЗ Семинар 6\Task_40_HARD_Треугольник\bin\Debug\net6.0\Task_40_HARD_Треугольник.exe
+C:\Users\TAMAPA\Desktop\GB Тестировщик\Уроки\3 Основы языков программирования\ДЗ Семинар 6\Task_40_HARD_Треугольник\bin\Debug\net6.0\Task_40_HARD_Треугольник.deps.json
+C:\Users\TAMAPA\Desktop\GB Тестировщик\Уроки\3 Основы языков программирования\ДЗ Семинар 6\Task_40_HARD_Треугольник\bin\Debug\net6.0\Task_40_HARD_Треугольник.runtimeconfig.json
+C:\Users\TAMAPA\Desktop\GB Тестировщик\Уроки\3 Основы языков программирования\ДЗ Семинар 6\Task_40_HARD_Треугольник\bin\Debug\net6.0\Task_40_HARD_Треугольник.dll
+C:\Users\TAMAPA\Desktop\GB Тестировщик\Уроки\3 Основы языков программирования\ДЗ Семинар 6\Task_40_HARD_Треугольник\bin\Debug\net6.0\Task_40_HARD_Треугольник.pdb
+C:\Users\TAMAPA\Desktop\GB Тестировщик\Уроки\3 Основы языков программирования\ДЗ Семинар 6\Task_40_HARD_Треугольник\obj\Debug\net6.0\Task_40_HARD_Треугольник.csproj.AssemblyReference.cache
+C:\Users\TAMAPA\Desktop\GB Тестировщик\Уроки\3 Основы языков программирования\ДЗ Семинар 6\Task_40_HARD_Треугольник\obj\Debug\net6.0\Task_40_HARD_Треугольник.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TAMAPA\Desktop\GB Тестировщик\Уроки\3 Основы языков программирования\ДЗ Семинар 6\Task_40_HARD_Треугольник\obj\Debug\net6.0\Task_40_HARD_Треугольник.AssemblyInfoInputs.cache
+C:\Users\TAMAPA\Desktop\GB Тестировщик\Уроки\3 Основы языков программирования\ДЗ Семинар 6\Task_40_HARD_Треугольник\obj\Debug\net6.0\Task_40_HARD_Треугольник.AssemblyInfo.cs
+C:\Users\TAMAPA\Desktop\GB Тестировщик\Уроки\3 Основы языков программирования\ДЗ Семинар 6\Task_40_HARD_Треугольник\obj\Debug\net6.0\Task_40_HARD_Треугольник.csproj.CoreCompileInputs.cache
+C:\Users\TAMAPA\Desktop\GB Тестировщик\Уроки\3 Основы языков программирования\ДЗ Семинар 6\Task_40_HARD_Треугольник\obj\Debug\net6.0\Task_40_HARD_Треугольник.dll
+C:\Users\TAMAPA\Desktop\GB Тестировщик\Уроки\3 Основы языков программирования\ДЗ Семинар 6\Task_40_HARD_Треугольник\obj\Debug\net6.0\refint\Task_40_HARD_Треугольник.dll
+C:\Users\TAMAPA\Desktop\GB Тестировщик\Уроки\3 Основы языков программирования\ДЗ Семинар 6\Task_40_HARD_Треугольник\obj\Debug\net6.0\Task_40_HARD_Треугольник.pdb
+C:\Users\TAMAPA\Desktop\GB Тестировщик\Уроки\3 Основы языков программирования\ДЗ Семинар 6\Task_40_HARD_Треугольник\obj\Debug\net6.0\Task_40_HARD_Треугольник.genruntimeconfig.cache
+C:\Users\TAMAPA\Desktop\GB Тестировщик\Уроки\3 Основы языков программирования\ДЗ Семинар 6\Task_40_HARD_Треугольник\obj\Debug\net6.0\ref\Task_40_HARD_Треугольник.dll
