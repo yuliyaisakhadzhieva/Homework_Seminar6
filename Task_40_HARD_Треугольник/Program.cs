@@ -3,38 +3,50 @@
 // периметр, значения углов треугольника в градусах, 
 // является ли он прямоугольным, равнобедренным, равносторонним.
 
-Console.WriteLine("Введите первое число"); 
-int a = Convert.ToInt32(Console.ReadLine()); 
-Console.WriteLine("Введите второе число"); 
-int b = Convert.ToInt32(Console.ReadLine()); 
-Console.WriteLine("Введите третье число"); 
-int c = Convert.ToInt32(Console.ReadLine());  
+Console.WriteLine("Введите первое число");
+int a = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Введите второе число");
+int b = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Введите третье число");
+int c = Convert.ToInt32(Console.ReadLine());
 
-bool Checktriangle(int a, int b, int c) 
-{     
-    bool x = false;     
-    if ((a + b > c) && (b + c > a) && (a + c > b)) x = true;     
-    return x; 
-} 
+bool Checktriangle(int a, int b, int c)
+{
+    bool x = false;
+    if ((a + b > c) && (b + c > a) && (a + c > b)) x = true;
+    return x;
+}
 
 Console.WriteLine(Checktriangle(a, b, c));
 
-int s = 0;
-int h = 0;
-h = (a+b+c)/2;
-s = (a*h)/2;
+int STr(int a, int b, int c)
+{
+    int s = 0;
+    int h = 0;
+    h = (a + b + c) / 2;
+    s = (a * h) / 2;
+    {
+        return s;
+    }
+}
+STr(a, b, c);
+Console.WriteLine($"Площадь треугольника равна: {STr(a, b, c)}");
 
-Console.WriteLine("Площадь треугольника равна: " + s);
-
+int PTr (int a, int b, int c)
+{
 int p = 0;
-p = a+b+c;
-
-Console.WriteLine("Периметр треугольника равен: " + p);
+p = a + b + c;
+{
+    return p;
+}
+}
+PTr(a, b, c);
+Console.WriteLine($"Периметр треугольника равен: {PTr(a, b, c)}");
 
 // int x = Convert.ToDouble (Console. ReadLine ());
 // int y = Convert.ToDouble (Console. ReadLine ());
 // int z = Convert.ToDouble (Console. ReadLine ());
- 
+
 // x = 0;
 // y = 0;
 // z = 0;
@@ -45,6 +57,7 @@ Console.WriteLine("Периметр треугольника равен: " + p);
 
 // Console.WriteLine($"Углы треугольника в градусах: {x}; {y}; {z}");
 
-if (a=b=c) Console.WriteLine ("Треугольник равносторонний");
-if (x=y || x=z ||y=z) Console.WriteLine ("Треугольник равнобедренный");
-if (x=90 || y=90 || z=90) Console.WriteLine ("Треугольник прямоугольный");
+// if (a=b=c) Console.WriteLine ("Треугольник равносторонний");
+// if (x=y || x=z ||y=z) Console.WriteLine ("Треугольник равнобедренный");
+// if (x=90 || y=90 || z=90) Console.WriteLine ("Треугольник прямоугольный");
+

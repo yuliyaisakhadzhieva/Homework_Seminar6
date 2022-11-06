@@ -19,5 +19,22 @@ Console.WriteLine($"Координата точки пересечения  ра
 
 
 
+// void CoordX(double b1, double b2, double k1, double k2)
+// {
+//     double x = (b2 - b1) / (k1 - k2);
+// }
+
+
+// void CoordY(double b1, double b2, double k1, double k2)
+// {
+//     double x = (b2 - b1) / (k1 - k2);
+//     double y = k1 * x + b1;
+// }
+// CoordX(b1, b2, k1, k2);
+// CoordY(b1, b2, k1, k2);
+
+// Console.WriteLine($"Координата точки пересечения  равна: {CoordX}; {CoordY}");
+
+
 
 
